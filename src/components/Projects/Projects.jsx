@@ -28,7 +28,7 @@ export default function Projects() {
         title:'Portfolio',
         description:'"A personal Animated portfolio website built using React.js and frame motion to showcase my skills, projects, and experiences. It features a responsive design, interactive animations, and links to my social profiles and GitHub repositories.',
         image:'/project4.png',
-        github:'#'
+        github:'https://github.com/Sandeshingale/Portf'
     }
   ]
   const carouselRef=useRef(null)
