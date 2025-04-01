@@ -25,6 +25,14 @@ export default function Projects() {
         github:'https://github.com/Sandeshingale/Crypto-Screener'
     },
     {
+        title:'Mockmate-ai',
+        description:'An AI-driven platform that helps users prepare for job applications and interviews by providing:Mock Interview Preparation ,Resume Builder,Cover Letter Builder Using AI.',
+        image:'/project5.png',
+        live:'https://mockmate-ai-wjvx.vercel.app/',
+        github:'https://github.com/Sandeshingale/Mockmate-AI'
+        
+    },
+    {
         title:'Portfolio',
         description:'"A personal Animated portfolio website built using React.js and frame motion to showcase my skills, projects, and experiences. It features a responsive design, interactive animations, and links to my social profiles and GitHub repositories.',
         image:'/project4.png',
